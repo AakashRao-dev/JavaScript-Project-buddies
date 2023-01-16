@@ -1,0 +1,34 @@
+:root {
+  --spacing-constant: 2rem;
+  --primary-color: #e7e7e7;
+  --secondary-color: #d8d8d8;
+  --text-color: #262626;
+  --accent-color: #22c55e;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+img {
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: var(--primary-color);
+  padding: var(--spacing-constant);
+}
+
+h1 {
+  font-size: 4rem;
+  text-align: center;
+}
+
+.container {
+  background-color: var(--secondary-color);
+  border-radius: var(--spacing-constant);
+}
