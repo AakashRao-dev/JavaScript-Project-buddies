@@ -28,3 +28,9 @@
 
 - Feel free to raise an issue
   - or sending a Discord message
+
+# Collaborators
+
+<a href="https://github.com/AntonNeimet"><img src="https://avatars.githubusercontent.com/u/111434629?v=4" width="50px" style="border-radius: 100px"></a>
+
+<a href="https://github.com/cwh0430"><img src="https://avatars.githubusercontent.com/u/108912628?v=4" width="50px" style="border-radius: 100px"></a>
