@@ -22,7 +22,7 @@
 
 - Raise an issue in the issue tab 👇
 
-<video src="./assets/raising-an-issue.mp4" width="100%">
+<img src="./assets/raising-an-issue.gif" width="100%">
 
 # Any Doubts?
 
