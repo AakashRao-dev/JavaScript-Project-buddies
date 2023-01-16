@@ -2,8 +2,6 @@
 
 > This is going to be a part of collaboration repo to keep everyone accountable and help each other while building projects.
 
-<br/>
-
 ## What is the reason behind this?
 
 - Helping each other
@@ -18,12 +16,11 @@
 - Just the curosity to learn
 - Interested in collaboration
 
-## What is the idea
-
-- Start with building 30 JS projects
-
 <br/>
-<br/>
+
+# How to take part in this?
+
+- Raise an issue in the issue tab
 
 # Any Doubts?
 
