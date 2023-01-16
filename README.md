@@ -20,7 +20,9 @@
 
 # How to take part in this?
 
-- Raise an issue in the issue tab
+- Raise an issue in the issue tab 👇
+
+<video src="./assets/raising-an-issue.mp4" width="100%">
 
 # Any Doubts?
 
